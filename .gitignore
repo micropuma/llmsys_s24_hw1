@@ -1,1 +1,7 @@
-venv/
+*.so
+*.pyc
+/venv/
+__pycache__/
+*.pyc
+*.pyo
+minitorch.egg-info/
