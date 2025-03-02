@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 *.pyo
 minitorch.egg-info/
+hypothesis/
